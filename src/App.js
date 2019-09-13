@@ -50,7 +50,7 @@ class GlobalHeading extends React.Component{
     return (
       <div className="App-global-heading">
         <div className="container">
-          <h3>Escolha o tipo de arte<br></br> de acordo com o culto que deseja</h3>
+          <h3>WeebHooks</h3>
         </div>
       </div>
     )
